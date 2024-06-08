@@ -19,34 +19,23 @@ with open('listadoRutEmpresa.csv','r',encoding='UTF-8') as archivo_csv:
         
         if ventas <= 100000000:
             clasificacion = 'Pequena Contribuyente'
-            clasificacionEmpresa.append({
-                    'Nombre': nombre,
-                    'Rut':rut,
-                    'Ventas': ventas,
-                    'Clasificacion': clasificacion
-                 })
             print(f'{clasificacion}\n')
             
         elif ventas >= 100000001 and ventas <= 200000000:
             clasificacion = 'Mediana Contribuyente'
-            clasificacionEmpresa.append({
-                    'Nombre': nombre,
-                    'Rut':rut,
-                    'Ventas': ventas,
-                    'Clasificacion': clasificacion
-                 })
             print(f'{clasificacion}\n')
             
         elif ventas > 200000000:
             clasificacion = 'Gran Contribuyente'
-            clasificacionEmpresa.append({   
+            print(f'{clasificacion}\n')
+
+        clasificacionEmpresa.append({   
                     'Nombre': nombre,
                     'Rut':rut,
                     'Ventas': ventas,
                     'Clasificacion': clasificacion
                  })
-            print(f'{clasificacion}\n')
-
+        
 with open ('segmentacionEmpresas.json','w') as archivo_json:
     json.dump(clasificacionEmpresa, archivo_json, indent=1 )
     
