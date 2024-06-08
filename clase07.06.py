@@ -25,7 +25,7 @@ with open('listadoRutEmpresa.csv','r',encoding='UTF-8') as archivo_csv:
             clasificacion = 'Mediana Contribuyente'
             print(f'{clasificacion}\n')
             
-        elif ventas > 200000000:
+        else:
             clasificacion = 'Gran Contribuyente'
             print(f'{clasificacion}\n')
 
