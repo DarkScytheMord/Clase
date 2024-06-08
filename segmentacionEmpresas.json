@@ -1,0 +1,116 @@
+[
+ {
+  "Nombre": "Comercial Calcetas Runner",
+  "Rut": "72642413-6",
+  "Ventas": 150000000,
+  "Clasificacion": "Mediana Contribuyente"
+ },
+ {
+  "Nombre": "Reparaci\u00f3n Mac",
+  "Rut": "76437473-2",
+  "Ventas": 300000000,
+  "Clasificacion": "Gran Contribuyente"
+ },
+ {
+  "Nombre": "ProgramaSoftware",
+  "Rut": "76254356-9",
+  "Ventas": 27500000,
+  "Clasificacion": "Pequena Contribuyente"
+ },
+ {
+  "Nombre": "Calzados Roma",
+  "Rut": "76077262-3",
+  "Ventas": 15000000,
+  "Clasificacion": "Pequena Contribuyente"
+ },
+ {
+  "Nombre": "Empresa Arcos",
+  "Rut": "76310800-8",
+  "Ventas": 80000000,
+  "Clasificacion": "Pequena Contribuyente"
+ },
+ {
+  "Nombre": "Casino Coffe",
+  "Rut": "76283690-4",
+  "Ventas": 120000000,
+  "Clasificacion": "Mediana Contribuyente"
+ },
+ {
+  "Nombre": "Cafe Express ltda",
+  "Rut": "76952985-5",
+  "Ventas": 50000000,
+  "Clasificacion": "Pequena Contribuyente"
+ },
+ {
+  "Nombre": "Vino Export SA",
+  "Rut": "76081440-2",
+  "Ventas": 20000000,
+  "Clasificacion": "Pequena Contribuyente"
+ },
+ {
+  "Nombre": "Cepa Merl LTDA",
+  "Rut": "76216579-1",
+  "Ventas": 30000000,
+  "Clasificacion": "Pequena Contribuyente"
+ },
+ {
+  "Nombre": "Comercial Ropa America",
+  "Rut": "76597875-0",
+  "Ventas": 60000000,
+  "Clasificacion": "Pequena Contribuyente"
+ },
+ {
+  "Nombre": "Empresas JP",
+  "Rut": "76852106-3",
+  "Ventas": 90000000,
+  "Clasificacion": "Pequena Contribuyente"
+ },
+ {
+  "Nombre": "Empresas ICata SA",
+  "Rut": "76887745-8",
+  "Ventas": 100000000,
+  "Clasificacion": "Pequena Contribuyente"
+ },
+ {
+  "Nombre": "Buses Pe\u00f1alolen",
+  "Rut": "76210124-2",
+  "Ventas": 150000000,
+  "Clasificacion": "Mediana Contribuyente"
+ },
+ {
+  "Nombre": "Sandias Paine LTDA",
+  "Rut": "76802052-4",
+  "Ventas": 70000000,
+  "Clasificacion": "Pequena Contribuyente"
+ },
+ {
+  "Nombre": "Modas Junior P",
+  "Rut": "76575973-1",
+  "Ventas": 400000000,
+  "Clasificacion": "Gran Contribuyente"
+ },
+ {
+  "Nombre": "Bar del 81",
+  "Rut": "76869384-2",
+  "Ventas": 25000000,
+  "Clasificacion": "Pequena Contribuyente"
+ },
+ {
+  "Nombre": "Empresas LLS",
+  "Rut": "76877803-6",
+  "Ventas": 8000000,
+  "Clasificacion": "Pequena Contribuyente"
+ },
+ {
+  "Nombre": "Empresas luz y vida SA",
+  "Rut": "76706124-0",
+  "Ventas": 3000000,
+  "Clasificacion": "Pequena Contribuyente"
+ },
+ {
+  "Nombre": "Empresa Matrix",
+  "Rut": "76162938-1",
+  "Ventas": 120000000,
+  "Clasificacion": "Mediana Contribuyente"
+ }
+]
